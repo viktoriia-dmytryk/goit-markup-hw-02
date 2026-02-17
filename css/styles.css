@@ -85,16 +85,13 @@ ul {
     border-radius: 4px;
     padding: 16px 32px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;;
-    
-
+    background: #4d5ae5;
+    cursor: pointer;
 }
 .btn-order:focus, .btn-order:active, .btn-order:hover {
     background: #404bbf;
 }
-.btn-order:hover{
-    cursor: pointer;
-}
+
 
 .sect-advant {
     background-color: #FFFFFF;
